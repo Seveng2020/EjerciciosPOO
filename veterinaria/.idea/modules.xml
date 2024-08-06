@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Veterinaria.iml" filepath="$PROJECT_DIR$/Veterinaria.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Modelo.iml" filepath="$PROJECT_DIR$/Modelo.iml" />
+>>>>>>> e505c152396386d6356dfebd4109fb0e00c06332
+    </modules>
+  </component>
+</project>

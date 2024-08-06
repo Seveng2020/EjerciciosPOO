@@ -1,0 +1,41 @@
+paradigma orientado a objetos 
+se basa en objetos que interactuan en un determinado ambiente
+por ejemplo administracion de registro de alumnos y docentes de un colegio
+alumnos - docentes - cursos etc. serian objetos y en base a eso modelar el proyecto 
+llevar soluciones del mundo real a soluciones de software
+
+encapsular estado y operaciones a objetos
+determinar las caracteristicas de cada objeto y diferenciar objetos unicos
+
+determinar que operaciones hace el objeto 
+
+abstraccion: desarmar y dejar lo importante
+encapsulamiento: encapsular y determinar objeto unico o sus caracteristicas dentro
+polimorifsmo : 
+herencia: 
+uml: forma de modelar el proyecto
+
+
+
+clase:
+es una plantilla o molde para contruir objetos, 
+poseen comportamientos y caracteristicas (metodos y atributos).
+se utilizan mediante objetos
+
+objeto:
+es una instancia de una clase. posee un estado, segun sus atributos,
+y hacen cosas segun sus metodos
+instanciar clase: generar un objeto
+
+
+atributos=similar a caracteristicas de codigo principal
+comportamiento =similar a funcion
+objeto =similar a variable
+
+
+modelado de objetos
+1 abstraccion
+2encapsulamiento
+3modularidad
+4jerarquia
+si no tiene estas 4 caracteristicas no se puede llamar POO
