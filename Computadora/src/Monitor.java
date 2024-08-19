@@ -5,6 +5,7 @@ public class Monitor {
     private static int cantMonitores;
 
     public Monitor() {
+        this.idMonitor = ++Monitor.cantMonitores;
     }
 
     public Monitor(String marca, float tamanio) {

@@ -10,14 +10,19 @@ public class Computadora {
     private Monitor monitor;
 
     public Computadora() {
+        Computadora.cantComputadoras++;
+        this.idComputadora = Computadora.cantComputadoras;
     }
 
     public Computadora(String nombre, Monitor monit, Teclado teclado, Mouse mouse) {
-        this.idComputadora = idComputadora;
+        Computadora.cantComputadoras++;
+        this.idComputadora = Computadora.cantComputadoras;
         this.nombre = nombre;
         this.teclado = teclado;
         this.mouse = mouse;
-        this.monitor = monitor;
+        this.monitor = monit;
+
+
     }
 
     public int getIdComputadora() {
